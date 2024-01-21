@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cool projects at the intersection of the arts and technology
 - 📫 How to reach me IG @itsfromicarus
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I speak Russian, Mandarin, and French!
+- ⚡ Fun fact: I speak (English), Russian, Mandarin, and French!
 
 <!---
 jameshu88/jameshu88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
