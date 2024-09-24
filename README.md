@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @jameshu88
-- 👀 I’m interested in computational neuroscience, DSP and audio engineering, generative AI, and cybersecurity
+- 👀 I’m interested in computational neuroscience, DSP and music technology, generative AI, and next-gen cybersecurity
 - 🌱 I’m currently learning computer science and cognitive science with a minor in pop music
 - 💞️ I’m looking to collaborate on cool projects at the intersection of the arts and technology
-
+- 📫 How to reach me IG @itsfromicarus
+- 😄 Pronouns: he/him
+- ⚡ Fun fact(s): I'm a polyglot and the Vice President of the Boxing Club @ UPenn 🥊 
 
 <!---
 jameshu88/jameshu88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
