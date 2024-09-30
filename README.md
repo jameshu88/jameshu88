@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jameshu88
 - 👀 I’m interested in computational neuroscience, DSP and music technology, generative AI, and next-gen cybersecurity
 - 🌱 I’m currently learning computer science and cognitive science with a minor in pop music
-- 💞️ I’m looking to collaborate on cool projects at the intersection of the arts and technology
+- 💞️ I’m looking to collaborate on cool projects at the intersection of the arts / cybersecurity and technology
 - 📫 How to reach me IG @itsfromicarus
 - 😄 Pronouns: he/him
 - ⚡ Fun fact(s): I'm a polyglot and the Vice President of the Boxing Club @ UPenn 🥊 
