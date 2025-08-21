@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cool projects at the intersection of the arts / cybersecurity and technology
 - 📫 How to reach me IG @itsfromicarus
 - 😄 Pronouns: he/him
-- ⚡ Fun fact(s): I'm a polyglot and the Vice President of the Boxing Club @ UPenn 🥊 
+- ⚡ Fun fact(s): I'm a polyglot and the President of the Boxing Club @ UPenn 🥊 
 
 <!---
 jameshu88/jameshu88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
